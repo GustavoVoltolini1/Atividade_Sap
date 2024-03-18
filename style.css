@@ -1,0 +1,11 @@
+.color{
+    background-color: slategray;
+}
+
+.linha-horizontal {
+    position: relative;
+    left: 0;
+    right: 0;
+    height: 15px;
+    background: repeating-linear-gradient(90deg, #ffff99, #ffff99 15px, #ffcc00 5px, #ffcc00 40px);
+}
